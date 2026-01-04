@@ -10,7 +10,7 @@ Projek ini merupakan sistem pengenalan motif batik secara real-time yang dibangu
 2. 231011400524  -  Nabil Radina
 3. 231011403045  -  Raihan Fathir M.
 4. 231011403152  -  Revaldi Ridwan
-5. 231011400511  -  Sadam Sofyan ( Pemilik akun GitHub ini
+5. 231011400511  -  Sadam Sofyan ( Pemilik akun GitHub ini )
 
 ---
 
