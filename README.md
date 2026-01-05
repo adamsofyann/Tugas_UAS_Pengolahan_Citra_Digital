@@ -1,7 +1,9 @@
 # Sistem Pengenalan Motif Batik 🇮🇩
 **Projek Ujian Akhir Semester (UAS) Mata Kuliah: Pengolahan Citra Digital**
 
-Projek ini merupakan sistem pengenalan motif batik secara real-time yang dibangun menggunakan pendekatan Computer Vision dan Machine Learning. Sistem dikembangkan sebagai bagian dari tugas Ujian Akhir Semester dan dikerjakan oleh satu kelompok yang terdiri dari lima mahasiswa.
+Projek ini merupakan sistem pengenalan motif batik secara real-time yang dibangun menggunakan pendekatan Computer Vision dan Machine Learning. Sistem dikembangkan sebagai bagian dari tugas Ujian Akhir Semester dan dikerjakan oleh satu kelompok yang terdiri dari lima mahasiswa. 
+
+**Ini link youtube https://youtu.be/fxIGHoEeLgw?si=5tQ7uaBCGSvurdJG**
 
 ---
 
